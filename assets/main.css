@@ -166,7 +166,8 @@ img.profile-pic {
   line-height: 1.5em;
 }
 
-.text-detail {
+#lolev-logo {
+  transition: transform .1s ease
 }
 
 .bottom {
